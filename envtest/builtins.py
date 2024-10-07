@@ -1,7 +1,7 @@
 import numpy as np
 from scipy.ndimage import gaussian_filter
 from scipy import misc
-import panda as pd
+import pandas as pd
 
 __all__ = ['rand_array', 'smooth_image', 'my_mat_solve', 'file_read']
 
